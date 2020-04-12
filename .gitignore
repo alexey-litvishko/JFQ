@@ -15,3 +15,5 @@ gradle-app.setting
 sandbox/build/classes/java/main/MFP.class
 sandbox/build/libs/sandbox.jar
 sandbox/build/tmp/jar/MANIFEST.MF
+sandbox/.idea/workspace.xml
+sandbox/.idea/misc.xml
